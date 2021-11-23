@@ -38,5 +38,3 @@
 </section>
 <marquee class="m1">Contact: E-mail- nanakjot.a1074.tmsp@gmail.com... Nanakjot's show... Like, Share, Subscribe, and don't forget to comment!</marquee>
 <img src="Pictures (2).png" style="width:100%; border-radius:0%; display: flex; justify-content: center; align-items: center;">
-</body>
-</html>
