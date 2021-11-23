@@ -2,9 +2,6 @@
 <html>
 <head>
 <link rel="stylesheet" href="style.css">
-<title>
-Nanakjot's Show
-</title>
 </head>
 <body style= "background-color:rgb(150, 300, 200)">
 <nav class="desk">
